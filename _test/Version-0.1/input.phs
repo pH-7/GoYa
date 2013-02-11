@@ -1,0 +1,4 @@
+func <MY_STDIN> 0 print:Please; ws:; print:enter; ws:; print:a; ws:; print:word; input:;
+
+
+<MY_STDIN>:; # GO!

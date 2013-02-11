@@ -1,0 +1,4 @@
+func PH7 0 print : Hello! ; # create a function
+
+
+PH7:; # Declare the function

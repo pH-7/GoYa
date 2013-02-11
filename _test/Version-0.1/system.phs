@@ -1,0 +1,4 @@
+print:The; ws:; print:current; ws:; print:directory; ws:; print:is; nl:;
+
+system: pwd ;
+

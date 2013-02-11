@@ -1,0 +1,6 @@
+Copyright (c) 2012-2013  Pierre-Henry Soria <ph7software@gmail.com>
+
+All the Copyright Notice, Links and Copyright Comments can never be removed from the source code!
+
+
+The all text written and displayed (except third libraries and files where license is given their own) in this software in licensed: Attribution-ShareAlike 3.0 or later (http://creativecommons.org/licenses/by-sa/3.0/).

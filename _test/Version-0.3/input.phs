@@ -1,0 +1,4 @@
+func,<MY_STDIN>,0,print(Please enter a word)input()
+
+
+<MY_STDIN>() # GO!
