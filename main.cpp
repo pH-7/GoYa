@@ -95,11 +95,11 @@ int main(int argc, char** const argv)
     {
         cerr << text << endl;
     }
-    catch (int const& digit)
+    catch (int digit)
     {
         cerr << "Integer Exception: " << digit << endl;
     }
-    catch (double const& digit)
+    catch (double digit)
     {
         cerr << "Double Exception: " << digit << endl;
     }
